@@ -1,4 +1,4 @@
-# Example app with TypeScript + Vte + lit-html
+# Example app with TypeScript + Vite + lit-html
 
 Includes type-checking with [TypeScript], formatting with [prettier], bundling with [Vite] and rendering with [lit-html].
 
