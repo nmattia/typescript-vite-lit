@@ -9,11 +9,11 @@
     "check": "tsc --watch"
   },
   "dependencies": {
-    "lit": "~2"
+    "lit": "~3"
   },
   "devDependencies": {
-    "prettier": "~2",
-    "typescript": "~4",
-    "vite": "~3"
+    "prettier": "~3",
+    "typescript": "~5",
+    "vite": "~5"
   }
 }
